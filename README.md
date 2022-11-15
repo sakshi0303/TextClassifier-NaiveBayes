@@ -1,7 +1,7 @@
 # Mavid: 1001993702
 # Name: Sakshi
 # Email: sx3702@mavs.uta.edu
-# Course: 2228-CSE-5360-006-ARTIFICIAL INTELLIGENCE I
+# Course: 2228-CSE-5334-001-DATA MINING
 # Language Used: Python
 # python3 --version : 3.10.2
 ## Naive Bayes : Text Classifier
